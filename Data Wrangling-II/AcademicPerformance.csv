@@ -1,0 +1,10 @@
+gender,math score,reading score,writing score,Placement Score,placement offer count,Region
+female,72,72,74,78,1,Pune
+female,69,90,88,,2,na
+female,90,95,93,74,2,Nashik
+male,47,57,,78,1,Na
+male,na,78,75,81,3,Pune
+female,71,Na,78,70,4,na
+male,12,44,52,12,2,Nashik
+male,,65,67,49,1,Pune
+male,5,77,89,55,0,
